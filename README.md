@@ -25,7 +25,9 @@ Siga as etapas abaixo para rodar o projeto em sua máquina:
 2. **Entre com os dados usando o seguinte comando:**
 
    ```bash
-   python src/input.py
+   cd src
+   python input.py
+   cd..
    
 3. **Execute o projeto:**
 
@@ -44,6 +46,12 @@ Siga as etapas abaixo para rodar o projeto em sua máquina:
 
 - Python
 - Leitura de arquivos e comando bash
+
+## Exemplo
+Entrada: 2 3 3 -24 -22 -45 2 1 3 1 0 0 42 2 1 2 0 1 0 40 1 1 1 0 0 1 45
+
+![image](https://github.com/gabrielss2406/Simplex/assets/80500901/0deeb1ce-7dd7-4ae6-8a74-8f0b6f4aa756)
+   
 
 ## Contato
 
